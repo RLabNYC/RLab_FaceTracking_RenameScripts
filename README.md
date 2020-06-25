@@ -6,7 +6,7 @@ Todd Bryant, Kat Sullivan and Grant Ng
 
 Python download here: https://www.python.org/downloads/ **scroll all the way to see how to download properly!
 
-![python screenshot](https://i.ibb.co/WWnMVWC/win-installer.png)
+![python screenshot](https://i.ibb.co/PwC5vL6/win-installer.png)
 
 
 
