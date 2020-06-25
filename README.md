@@ -8,11 +8,11 @@ Python download here: https://www.python.org/downloads/ **scroll all the way to 
 
 ![python screenshot](https://i.ibb.co/5RYbr30/Inkedwin-installer-LI.jpg)
 
-
+Make sure you check off "Python version number to PATH"
 
 # Installing Pandas
 
-Open the terminal into where python is installed into your computer
+Open the terminal into where python is installed into your computer. In case panda is not installed already.
 
   - **Run command:**
 
