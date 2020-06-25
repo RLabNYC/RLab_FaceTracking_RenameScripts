@@ -2,18 +2,23 @@
 
 Todd Bryant, Kat Sullivan and Grant Ng
 
-Here is the link to the files for the (python scripts).  After you extract the files from the zip folder, make sure you save the .ma files into this same folder that you created for this tutorial. Then import the Fuse or MakeHuman CSV files into the same folder:
+# Installing Python
 
-(Fuse CSV)
-(Make Human CSV)
+Python download here: https://www.python.org/downloads/ **scroll all the way to see how to download properly!
 
-In order to have the blendshapes register in Unreal, the blendshapes needs to be named in a specific way for Apple’s ARKit to work on the new model. 
+![python screenshot](https://i.ibb.co/WWnMVWC/win-installer.png)
 
-Steps for Renaming the blendshapes in Maya
 
-Make sure you install python (version 3 not 2.7) !!
-Make sure you have the correct CSV file 
-PIP is Python’s Package Manager and is included in the installer, but sometimes needs to upgraded. 
+
+# Installing Pandas
+
+Open the terminal into where python is installed into your computer
+
+  - **Run command:**
+
+```
+pip install pandas
+```
 
 # Installing pip
 
