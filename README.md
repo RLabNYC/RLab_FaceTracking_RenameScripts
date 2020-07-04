@@ -26,7 +26,7 @@ python get-pip.py
 The script will take care of any additional python libraries and run the Python renaming script. It will search for a csv file in the PythonScript file so **be sure you choose either the Fuse.csv or Makehuman.csv file (found in the csv_files folder) and move it inside the PythonScripts folder**. You will also place your Maya file (.ma) into the PythonScripts folder. The script will rewrite the .ma file with the correct naming syntax in order to have the blendshapes register in Unreal. The blendshapes needs to be named in a specific way for Apple’s ARKit to work on the new model. 
 
 The file structure should look this 
-![file screen shot](file_structure_LI.jpg)
+![file screen shot](https://i.ibb.co/9h0k8V2/Run-folder-7-3-2020-11-26-30-PM-LI-2.jpg)
 
 Once that is done, be sure to be running command prompt as admin and from the PythonScripts folder run
 
